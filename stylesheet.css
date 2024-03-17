@@ -2,5 +2,8 @@
   width:70%;
 }
 .kaijyou{
-  width:70%
+  width:70%;
+}
+.kaijyou td{
+  text-aligin:center;
 }
